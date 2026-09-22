@@ -3,7 +3,6 @@ __pycache__/
 *.pyo
 .env
 models/*.pkl
-data/
 .DS_Store
 *.egg-info/
 dist/
@@ -11,3 +10,4 @@ build/
 .venv/
 venv/
 anaconda_projects/
+.ipynb_checkpoints/
