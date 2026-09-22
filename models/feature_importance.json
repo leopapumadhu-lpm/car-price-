@@ -1,0 +1,17 @@
+{
+  "max_power": 0.724169,
+  "car_age": 0.191167,
+  "km_driven": 0.027121,
+  "mileage": 0.019331,
+  "engine": 0.019049,
+  "seller_type_dealer": 0.003638,
+  "seller_type_individual": 0.003428,
+  "seats": 0.002726,
+  "fuel_diesel": 0.002102,
+  "fuel_petrol": 0.001858,
+  "transmission_automatic": 0.001529,
+  "transmission_manual": 0.0012,
+  "owner_first owner": 0.001062,
+  "owner_second owner": 0.000827,
+  "owner_test drive car": 0.000437
+}

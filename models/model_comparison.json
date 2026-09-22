@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Linear Regression",
+    "rmse": 445015.47,
+    "r2": 0.6979
+  },
+  {
+    "name": "Random Forest",
+    "rmse": 141975.9,
+    "r2": 0.9692
+  },
+  {
+    "name": "XGBoost",
+    "rmse": 144080.8,
+    "r2": 0.9683
+  }
+]
